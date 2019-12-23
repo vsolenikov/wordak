@@ -1,0 +1,25 @@
+#titlewrap { position: relative; }
+a.pt-splitter-button-add { position: absolute; bottom: 0; left: -18px; display: block; width: 18px; height: 18px; font-size: 8px; line-height: 18px; color: #fff; z-index: 99; text-align: center; transition: background-color .6s; -moz-transition: background-color .6s; -webkit-transition: background-color .6s; -o-transition: background-color .6s; text-decoration: none; outline: none; background: #fff url(../img/page-title-splitter.svg) no-repeat; }
+a.pt-splitter-button-add:hover { background-color: #6ebf72; color: #FFFFFF; text-decoration: none; }
+a.pt-splitter-button-add.pt-splitter-button-remove::after { position: absolute; top: 0; left: 0; display: block; width: 18px; height: 18px; content: ''; background: #f07273 url(../img/close.svg) no-repeat; color: #FFFFFF; outline: none; transition: background-color .4s; -moz-transition: background-color .4s; -webkit-transition: background-color .4s; -o-transition: background-color .4s; }
+a.pt-splitter-button-add.pt-splitter-button-remove:hover::after { background-color: #e93c4a; color: #FFFFFF; }
+
+.pt-splitter-wrap { position: relative; display: block; padding: 0 0 15px; background: #eaeaea; overflow: hidden; }
+.pt-splitter-wrap .pt-splitter-input { background: #FFF; margin: 0 0 3px; }
+.pt-splitter-wrap input[name="post_title"] { position: relative; z-index: 100; background: none !important; margin: 0 !important; }
+
+.pt-splitter-wrap .pt-splitter-content-wrap { position: relative; display: block; width: 1000%; height: 1px; overflow: hidden; opacity: 0; }
+.pt-splitter-wrap .pt-splitter-content { position: relative; display: inline-block; }
+.pt-splitter-wrap .pt-splitter-marker { position: absolute; bottom: 0; left: 0; display: block; width: 0px; border-left: 1px dashed #000; height: 100px; outline: none; z-index: 10; transition: all .4s; -moz-transition: all .4s; -webkit-transition: all .4s; -o-transition: all .4s; }
+
+.pt-splitter-wrap .pt-splitter-marker::after { position: absolute; bottom: 0; left: 50%; display: block; width: 0; height: 0; outline: none; border-style: solid; border-width: 0 10px 15px 10px; border-color: transparent transparent #999999 transparent; -webkit-transform: rotate(360deg); margin: 0 0 0 -10px; content: ''; transition: border-color .4s; -moz-transition: border-color .4s; -webkit-transition: border-color .4s; -o-transition: border-color .4s; }
+
+.pt-splitter-wrap .pt-splitter-marker.ts-active, .pt-splitter-wrap .pt-splitter-marker.pts-active::after { border-color: transparent transparent #00CC00 transparent; }
+.pt-splitter-wrap .pt-splitter-marker.ts-new, .pt-splitter-wrap .pt-splitter-marker.pts-new::after { border-color: transparent transparent #3399FF transparent; }
+.pt-splitter-wrap .pt-splitter-marker:hover::after { border-color: transparent transparent #FF9900 transparent; }
+
+.pt-splitter-function-highlight { font-size: 14px; font-weight: bold; color: #000; }
+.pt-splitter-function-help-add { display: inline-block; width: 18px; height: 18px; font-size: 8px; line-height: 18px; color: #fff; background: #fff url(../img/page-title-splitter.svg) no-repeat; z-index: 9999; text-align: center; vertical-align: middle; }
+.pt-splitter-function-help-marker { display: inline-block; width: 0; height: 0; outline: none; border-style: solid; border-width: 0 8px 13px 8px; border-color: transparent transparent #999999 transparent; -webkit-transform: rotate(360deg); margin: 0; }
+.pt-splitter-function-help-marker.marker-add { border-color: transparent transparent #00CC00 transparent; }
+.pt-splitter-function-help-marker.marker-new { border-color: transparent transparent #3399FF transparent; }

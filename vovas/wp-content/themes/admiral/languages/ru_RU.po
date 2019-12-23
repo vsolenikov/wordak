@@ -1,0 +1,654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admiral v10.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-07-20 15:59+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ admiral
+#: 404.php:15
+msgid "404: Page not found"
+msgstr "Ошибка 404 — Страница не найдена"
+
+# @ admiral
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search or one of the links below?"
+msgstr "К сожалению мы не можем показать то, что вы искали. Может быть, попробуете поиск по сайту или одну из приведенных ниже ссылок?"
+
+# @ admiral
+#: comments.php:28 inc/template-tags.php:203
+msgid "One comment"
+msgstr "﻿Один комментарий"
+
+# @ admiral
+#: comments.php:28 inc/template-tags.php:203
+msgid "% comments"
+msgstr "% комментариев"
+
+# @ admiral
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "Комментарии закрыты"
+
+# @ admiral
+#: comments.php:57
+msgid "Leave a Reply"
+msgstr "Написать ответ"
+
+# @ admiral
+#: functions.php:42 functions.php:46
+msgid "Main Navigation"
+msgstr "Основная навигация"
+
+# @ admiral
+#: functions.php:47
+msgid "Sidebar Navigation"
+msgstr "Навигация в боковой панели"
+
+# @ admiral
+#: functions.php:48
+msgid "Social Icons"
+msgstr "Иконки соц. сетей"
+
+# @ admiral
+#: functions.php:105
+msgid "Main Sidebar"
+msgstr "Основная - Боковая колонка"
+
+# @ admiral
+#: functions.php:107
+msgid "Appears on posts and pages."
+msgstr ""
+
+# @ admiral
+#: functions.php:115
+msgid "Small Sidebar"
+msgstr "Малый сайдбар"
+
+# @ admiral
+#: functions.php:117
+msgid "Appears on posts and pages except the full width template."
+msgstr ""
+
+# @ admiral
+#: functions.php:125
+msgid "Magazine Homepage"
+msgstr ""
+
+# @ admiral
+#: functions.php:127
+msgid "Appears on Magazine Homepage template only. You can use the Magazine Posts widgets here."
+msgstr ""
+
+# @ admiral
+#: functions.php:160 inc/customizer/default-options.php:37
+#: inc/customizer/sections/customizer-general.php:44
+msgid "Navigation"
+msgstr "Навигация"
+
+# @ admiral
+#: header.php:26
+msgid "Skip to content"
+msgstr "Наверх"
+
+# @ admiral
+#: inc/back-compat.php:41 inc/back-compat.php:51 inc/back-compat.php:64
+#, php-format
+msgid "%1$s requires at least WordPress version %2$s. You are running version %3$s. Please upgrade and try again."
+msgstr ""
+
+# @ admiral
+#: inc/customizer/customizer.php:31 inc/theme-info.php:78
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ admiral
+#: inc/customizer/customizer.php:41
+msgid "Background"
+msgstr "цвет фона"
+
+# @ admiral
+#: inc/customizer/customizer.php:52
+msgid "Display Site Title"
+msgstr "Отображать тольго заголовок сайта"
+
+# @ admiral
+#: inc/customizer/customizer.php:69
+msgid "Display Tagline"
+msgstr "Выводить описание"
+
+# @ admiral
+#: inc/customizer/customizer.php:99 inc/theme-info.php:46
+msgid "Theme Links"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/customizer.php:100 inc/theme-info.php:47
+msgid "https://themezee.com/themes/admiral/"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/customizer.php:101 inc/theme-info.php:47
+msgid "Theme Page"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/customizer.php:102 inc/theme-info.php:50
+#: inc/theme-info.php:71
+msgid "https://themezee.com/docs/admiral-documentation/"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/customizer.php:103 inc/theme-info.php:50
+#: inc/theme-info.php:65
+msgid "Theme Documentation"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/customizer.php:105 inc/theme-info.php:51
+msgid "Rate this theme"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/default-options.php:38
+#: inc/customizer/sections/customizer-general.php:61
+msgid "Sidebar"
+msgstr "Сайдбар"
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:65
+#: inc/widgets/widget-magazine-posts-columns.php:356
+#: inc/widgets/widget-magazine-posts-columns.php:377
+#: inc/widgets/widget-magazine-posts-grid.php:419
+#: inc/widgets/widget-magazine-posts-sidebar.php:301
+msgid "All Categories"
+msgstr "Все категории"
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:99 inc/theme-info.php:111
+msgid "Pro Version"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:102 inc/theme-info.php:114
+#, php-format
+msgid "Purchase the Pro Version of %s to get additional features and advanced customization options."
+msgstr ""
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:106 inc/theme-info.php:117
+msgid "https://themezee.com/addons/admiral-pro/"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:107 inc/theme-info.php:118
+#, php-format
+msgid "Learn more about %s Pro"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:115 inc/theme-info.php:128
+msgid "ThemeZee Plugins"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:118 inc/theme-info.php:131
+msgid "Extend the functionality of your WordPress website with our customized plugins."
+msgstr ""
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:122 inc/theme-info.php:134
+msgid "https://themezee.com/plugins/"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:123 inc/theme-info.php:135
+msgid "Browse Plugins"
+msgstr "Обзор плагинов"
+
+# @ admiral
+#: inc/customizer/functions/custom-controls.php:126 inc/theme-info.php:138
+msgid "Install now"
+msgstr "Установить сейчас"
+
+# @ admiral
+#: inc/customizer/sections/customizer-general.php:19
+msgid "General Settings"
+msgstr "Основные настройки"
+
+# @ admiral
+#: inc/customizer/sections/customizer-general.php:34
+msgid "Blog Title"
+msgstr "Заголовок блога"
+
+# @ admiral
+#: inc/customizer/sections/customizer-general.php:51
+msgid "Main Sidebar Title"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-general.php:68
+msgid "Small Sidebar Title"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:19
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:34
+msgid "Post Layout (archive pages)"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:40
+msgid "One Column"
+msgstr "Одна колонка"
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:41
+msgid "Two Columns"
+msgstr "Две колонки"
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:55
+msgid "Excerpt Length"
+msgstr "Длина выдержки"
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:73
+msgid "Post Meta"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:88
+#: inc/widgets/widget-magazine-posts-grid.php:454
+#: inc/widgets/widget-magazine-posts-sidebar.php:328
+msgid "Display post date"
+msgstr "Показывать дату"
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:104
+#: inc/widgets/widget-magazine-posts-grid.php:461
+#: inc/widgets/widget-magazine-posts-sidebar.php:335
+msgid "Display post comments"
+msgstr "Показывать комментарии"
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:121
+msgid "Single Posts"
+msgstr "Страница с записью"
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:137
+msgid "Display featured image on single posts"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:153
+msgid "Display post author on single posts"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:169
+msgid "Display post tags on single posts"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-post.php:185
+msgid "Display post navigation on single posts"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:19
+msgid "Post Slider"
+msgstr "Слайдер записи"
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:35
+msgid "Activate Post Slider"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:49
+msgid "Show Slider on Magazine Homepage"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:64
+msgid "Show Slider on posts page"
+msgstr "Включить слайдер на страницах с записями"
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:82
+msgid "Slider Category"
+msgstr "Категория слайдера"
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:99
+msgid "Number of Posts"
+msgstr "Число записей"
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:117
+msgid "Slider Animation"
+msgstr "Анимация слайдера"
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:124
+msgid "Slide Effect"
+msgstr "Эффект слайда"
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:125
+msgid "Fade Effect"
+msgstr "Эфект затухания"
+
+# @ admiral
+#: inc/customizer/sections/customizer-slider.php:139
+msgid "Slider Speed (in ms)"
+msgstr ""
+
+# @ admiral
+#: inc/customizer/sections/customizer-upgrade.php:19
+msgid "More Features"
+msgstr ""
+
+# @ admiral
+#: inc/template-tags.php:186
+#, php-format
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи %s"
+
+# @ admiral
+#: inc/template-tags.php:203
+msgid "No comments"
+msgstr "Нет комментариев"
+
+# @ admiral
+#: inc/template-tags.php:230
+#, php-format
+msgctxt "post author"
+msgid "Posted by %s"
+msgstr "Автор %s"
+
+# @ admiral
+#: inc/template-tags.php:278
+msgctxt "post navigation"
+msgid "Previous Post:"
+msgstr "Предыдущая запись:"
+
+# @ admiral
+#: inc/template-tags.php:279
+msgctxt "post navigation"
+msgid "Next Post:"
+msgstr "Следующая запись:"
+
+# @ admiral
+#: inc/template-tags.php:340
+msgctxt "pagination"
+msgid "Next Posts"
+msgstr "Следующее записи"
+
+# @ admiral
+#: inc/template-tags.php:341
+msgctxt "pagination"
+msgid "Previous Posts"
+msgstr "Предыдущие записи"
+
+# @ admiral
+#: inc/template-tags.php:366
+#, php-format
+msgid " %1$s / %2$s"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:19 inc/theme-info.php:40
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:20
+msgid "Theme Info"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:48
+msgid "Changelog"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:49
+msgid "Theme Demo"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:58
+#, php-format
+msgid "Getting Started with %s"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:68
+msgid "You need help to setup and configure this theme? We got you covered with an extensive theme documentation on our website."
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:72
+#, php-format
+msgid "View %s Documentation"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:81
+#, php-format
+msgid "%s makes use of the Customizer for all theme settings. Click on \"Customize Theme\" to open the Customizer now."
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:84
+msgid "Customize Theme"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:104
+msgid "Get more features"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:153
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:155
+msgid "https://themezee.com/"
+msgstr ""
+
+# @ admiral
+#: inc/theme-info.php:156
+msgid "rate it"
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:23
+#, php-format
+msgid "Magazine Posts: 2 Columns (%s)"
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:26
+msgid "Displays your posts from two selected categories. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:291
+#: inc/widgets/widget-magazine-posts-grid.php:354
+#: inc/widgets/widget-magazine-posts-sidebar.php:237
+#, php-format
+msgid "View all posts from category %s"
+msgstr "Показать все записи из категории %s"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:347
+msgid "Left Category Title:"
+msgstr "Название категории слева:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:353
+msgid "Left Category:"
+msgstr "Категория слева:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:368
+msgid "Right Category Title:"
+msgstr "Название категории справа:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:374
+msgid "Right Category:"
+msgstr "Категория справа:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:389
+#: inc/widgets/widget-magazine-posts-grid.php:439
+#: inc/widgets/widget-magazine-posts-sidebar.php:313
+msgid "Number of posts:"
+msgstr "Кол-во записей:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:397
+msgid "Highlight first post (big image + excerpt)"
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-columns.php:404
+msgid "Display post meta"
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:23
+#, php-format
+msgid "Magazine Posts: Grid (%s)"
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:26
+msgid "Displays your posts from a selected category in a grid layout. Please use this widget ONLY in the Magazine Homepage widget area."
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:410
+#: inc/widgets/widget-magazine-posts-sidebar.php:292
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:416
+#: inc/widgets/widget-magazine-posts-sidebar.php:298
+msgid "Category:"
+msgstr "Категория:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:431
+msgid "Grid Layout:"
+msgstr "Расположение:"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:433
+msgid "Two Columns Grid"
+msgstr "Две колонки"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:434
+msgid "Three Columns Grid"
+msgstr "Три колонки"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-grid.php:447
+#: inc/widgets/widget-magazine-posts-sidebar.php:321
+msgid "Display post excerpt"
+msgstr "Отобразить выдержку из записи"
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-sidebar.php:24
+#, php-format
+msgid "Magazine Posts: Sidebar (%s)"
+msgstr ""
+
+# @ admiral
+#: inc/widgets/widget-magazine-posts-sidebar.php:27
+msgid "Displays your posts from a selected category. You can use this widget in the Main Sidebar widget area."
+msgstr ""
+
+# @ admiral
+#: search.php:24
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты для: %s"
+
+# @ admiral
+#: searchform.php:12 searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Искать в:"
+
+# @ admiral
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Искать &hellip;"
+
+# @ admiral
+#: searchform.php:20
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+# @ admiral
+#: template-magazine.php:50
+msgid "Please go to Appearance &#8594; Widgets and add at least one widget to the \"Magazine Homepage\" widget area. You can use the Magazine Posts widgets to set up the theme like the demo website."
+msgstr ""
+
+# @ admiral
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Найдено ничего"
+
+# @ admiral
+#: template-parts/content-none.php:23
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+# @ admiral
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничего не найдено по условиям поиска. Попробуйте использовать другие ключевые слова."
+
+# @ admiral
+#: template-parts/content-none.php:33
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что Вы ищете. Может быть, Вам стоит воспользоваться поиском по сайту."
+
+# @ admiral
+#: template-parts/content-page.php:27 template-parts/content-single.php:37
+#: template-slider.php:36
+msgid "Pages:"
+msgstr "Страницы: "
